@@ -29,7 +29,7 @@ public class HelloController {
 //        setCommandName("name");
 //        setSuccessView("helloView");
 //        setFormView("nameView");
-    }
+    } 
     
     public void setHelloService(HelloService helloService){
         this.helloService = helloService;
